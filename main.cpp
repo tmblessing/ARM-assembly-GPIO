@@ -12,7 +12,7 @@ int main () {
     
     while (1){
         for (int i = 0; i <=15; i++){
-        my_leds(i); //Call my_leds with every integer 0 through 15
+        my_leds(i); //Call assembly function with every integer 0 through 15
     }
     };
 }
